@@ -25,5 +25,5 @@ Plugins utilizados:
 
 | Plugin | README |
 | ------ | ------ |
-| Shedlock Spring | [https://mvnrepository.com/artifact/net.javacrumbs.shedlock/shedlock-spring][PlDb] |
-| H2 | [https://mvnrepository.com/artifact/com.h2database/h2][PlGh]
+| Shedlock Spring | [https://mvnrepository.com/artifact/net.javacrumbs.shedlock/shedlock-spring] |
+| H2 | [https://mvnrepository.com/artifact/com.h2database/h2] |
